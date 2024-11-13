@@ -1,2 +1,6 @@
 title: Cool website
 description: Built using github!
+
+theme: minima
+plugins:
+- jekyll-remote-theme

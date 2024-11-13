@@ -1,6 +1,5 @@
 ---
 page: About
-title: About
 ---
 
 All about this site
